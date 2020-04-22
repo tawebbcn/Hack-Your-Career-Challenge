@@ -3,7 +3,7 @@
 
 ## Introduction
 
-If you are reading this, it means you are one step closer to learning the nits and grits of becoming a Web Developer. Through this document you'll get to create some scripts to look for our dream destination! 
+If you are reading this, it means you are one step closer to learning the nits and grits of becoming a Web Developer. Through this document you'll get to create some scripts to help us decide the space travel movie we'll watch tonight! 
 
 You will have to deliver your challenge in a .js file. Here at Ironhack we use Visual Studio code editor, but you can use any other such as Brackets, Sublime, etc. We leave it up to your personal preference. 
 
@@ -16,15 +16,20 @@ Please find the data set you need to use in your exercise in the data.js file.
 
 While stuck at home and daydreaming about escaping from planet Earth until the coronavirus pandemic is under control, we’ve come across a list of the 12 best space travel movies of all times 🎥💥 We need your JavaScript skills to solve the following challenges!
 
-  -- First things first. We don't want to watch any space travel movie, we want to watch the best rated ones! 🏆 **_Let's print the movies with a rate of at least 8.0 and print the "title" and "rate" in the console_**.
+  -- First things first. We don't want to watch any space travel movie, we want to watch the best rated ones! 🏆    
+  **_Let's print the movies with a rate of at least 8.0 and print the "title" and "rate" in the console_**.
 
-  -- Awesome! We would like to store these "best rated" movies somewhere, in order to watch them later 🍿 **_Add the movies with a rate greater or equal than 8.0 in an array called "bestMovies" and print this array to the consolee_**. 
+  -- Awesome! We would like to store these "best rated" movies somewhere, in order to watch them later 🍿    
+  **_Add the movies with a rate greater or equal than 8.0 in an array called "bestMovies" and print this array to the consolee_**. 
 
-  -- Ridley Scott movies are always entertaining, don't you think? So let's select only the movies he directed 🎬 **_Print to the console the movies that are from this director_**.
+  -- Ridley Scott movies are always entertaining, don't you think? So let's select only the movies he directed 🎬    
+  **_Print to the console the movies that are from this director_**.
 
-  -- On second thought, his movies are a bit too long and we feel tired today 😴 So... we would like to watch the shortest movie of the movies list. **_Based on the "duration" (which is in minutes), can you print the shortest movie to the console?_**
+  -- On second thought, his movies are a bit too long and we feel tired today 😴 So... we would like to watch the shortest movie of the movies list.    
+  **_Based on the "duration" (which is in minutes), can you print the shortest movie to the console?_**
 
-  -- Finally! We've watched all the movies, and we’d like to order them by their release year. **_Sort the movies in descending order (from newest to oldest) by the year_**.
+  -- Finally! We've watched all the movies, and we’d like to order them by their release year.     
+  **_Sort the movies in descending order (from newest to oldest) by the year_**.   
   => Bonus (not mandatory to complete the challenge): **_if two movies have the same release year, order them in alphabetical order by their title_**
 
 
