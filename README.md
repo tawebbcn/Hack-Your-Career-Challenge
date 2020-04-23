@@ -23,10 +23,9 @@ While stuck at home and daydreaming about escaping from planet Earth until the c
   **_Add the movies with a rate greater or equal than 8.0 in an array called "bestMovies" and print this array to the consolee_**. 
 
   -- Ridley Scott movies are always entertaining, don't you think? So let's select only the movies he directed 🎬    
-  **_Print to the console the movies that are from this director_**.
+  **_Print to the console the movies that are from Ridley Scott_**.
 
-  -- On second thought, his movies are a bit too long and we feel tired today 😴 So... we would like to watch the shortest movie of the movies list.    
-  **_Based on the "duration" (which is in minutes), can you print the shortest movie to the console?_**
+  -- On second thought, his movies are a bit too long and we feel tired today 😴 So... we would like to watch the shortest movie of the movies list. **_Based on the "duration" (which is in minutes), can you print the shortest movie to the console?_**
 
   -- Finally! We've watched all the movies, and we’d like to order them by their release year.     
   **_Sort the movies in descending order (from newest to oldest) by the year_**.   
